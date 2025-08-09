@@ -11,7 +11,7 @@ It calculates a user's age in **years, months, and days** in real time as they s
 - Lightweight and fast
 
 ## 🖥️ Live Demo
-[Click here to view the app](https://Syedrizwan23.github.io/age-calculator/)
+[Click here to view the app] https://syedrizwan23.github.io/age-calculator/
 
 ## 🛠 Tech Stack
 - **HTML** – Structure
